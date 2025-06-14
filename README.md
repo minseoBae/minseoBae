@@ -54,7 +54,17 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=minseoBae&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoBae&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <h2>💻 Algorithm Stats</h2>
+  <img src="https://img.shields.io/badge/Level-3-00B4AB?style=for-the-badge&logo=programmers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solved-150+-00B4AB?style=for-the-badge&logo=programmers&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/DP-20+-00B4AB?style=for-the-badge&logo=programmers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graph-30+-00B4AB?style=for-the-badge&logo=programmers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Greedy-25+-00B4AB?style=for-the-badge&logo=programmers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Implementation-40+-00B4AB?style=for-the-badge&logo=programmers&logoColor=white" />
 </div>
 
 <div align="center">
@@ -70,6 +80,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-
----
-⭐️ From [minseBae](https://github.com/minseoBae) 
